@@ -1,0 +1,19 @@
+{
+  "name": "wwebpr",
+  "version": "1.0.0",
+  "description": "day la du dan mau dau tien cua tui do ><",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanphuc308/wwebPR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanphuc308/wwebPR/issues"
+  },
+  "homepage": "https://github.com/vanphuc308/wwebPR#readme"
+}
